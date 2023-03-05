@@ -1,5 +1,5 @@
 # How to run project
-Dependency in this project is being deleted by using "FLutter Clean".
+Dependency in this project is being deleted by using "flutter clean".
 
 Read step below to get back the dependency and run project
 
